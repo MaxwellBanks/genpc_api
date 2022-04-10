@@ -1,4 +1,4 @@
-{
+[
     {
         "Red": 255,
         "Green": 255,
@@ -15,8 +15,8 @@
             "Sandy Loam": 0.15,
             "Silt": 0,
             "Silt Loam": 0,
-            "Silty_Clay": 0,
-            "Silty_Clay_Loam": 0
+            "Silty Clay": 0,
+            "Silty Clay Loam": 0
         }
     }, 
     {
@@ -35,8 +35,8 @@
             "Sandy Loam": 0.15,
             "Silt": 0.75,
             "Silt Loam": 0,
-            "Silty_Clay": 0.2,
-            "Silty_Clay_Loam": 0
+            "Silty Clay": 0.2,
+            "Silty Clay Loam": 0
         }
     }, 
     {
@@ -55,8 +55,8 @@
             "Sandy Loam": 0.15,
             "Silt": 0.15,
             "Silt Loam": 0.2,
-            "Silty_Clay": 0.1,
-            "Silty_Clay_Loam": 0.1
+            "Silty Clay": 0.1,
+            "Silty Clay Loam": 0.1
         }
     }, 
     {
@@ -75,8 +75,8 @@
             "Sandy Loam": 0,
             "Silt": 0,
             "Silt Loam": 0,
-            "Silty_Clay": 0,
-            "Silty_Clay_Loam": 0.05
+            "Silty Clay": 0,
+            "Silty Clay Loam": 0.05
         }
     }, 
     {
@@ -95,8 +95,8 @@
             "Sandy Loam": 0.05,
             "Silt": 0,
             "Silt Loam": 0,
-            "Silty_Clay": 0,
-            "Silty_Clay_Loam": 0
+            "Silty Clay": 0,
+            "Silty Clay Loam": 0
         }
     }, 
     {
@@ -115,8 +115,8 @@
             "Sandy Loam": 0.1,
             "Silt": 0,
             "Silt Loam": 0.1,
-            "Silty_Clay": 0,
-            "Silty_Clay_Loam": 0.05
+            "Silty Clay": 0,
+            "Silty Clay Loam": 0.05
         }
     }, 
     {
@@ -159,4 +159,4 @@
             "Silty Clay Loam": 0
         }
     } 
-}
+]
