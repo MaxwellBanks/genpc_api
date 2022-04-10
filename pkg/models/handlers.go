@@ -9,7 +9,7 @@ import (
 
 //Logs and continues in case of nonfatal error
 //TODO: Replace with more robust logging
-func handeNonFatal(err error) {
+func handleNonFatal(err error) {
 	if err != nil {
 		log.Fatal(err)
 	}
