@@ -1,4 +1,4 @@
-package main
+package models
 
 type MappingProbabilities struct {
 	Clay            float64 `json:"Clay"`

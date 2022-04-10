@@ -1,4 +1,4 @@
-package main
+package models
 
 import (
 	"encoding/json"
@@ -15,7 +15,7 @@ func handeNonFatal(err error) {
 	}
 }
 
-func getSoilMappings(path string) []SoilMapping {
+func GetSoilMappings(path string) []SoilMapping {
 	var soilmappings []SoilMapping
 	mappingFile, err := os.Open(path)
 	defer mappingFile.Close()
